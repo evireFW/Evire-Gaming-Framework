@@ -81,4 +81,4 @@ contract RandomNumberGenerator is VRFConsumerBase {
     function destroy() external onlyOwner {
         selfdestruct(payable(owner));
     }
-}
+} 

@@ -104,7 +104,7 @@ const MarketplaceListingSchema: Schema = new Schema({
 
 export const MarketplaceListing = mongoose.model<IMarketplaceListing>('MarketplaceListing', MarketplaceListingSchema);
 
-// Leaderboard Model
+// Leaderboard Model 
 interface ILeaderboard extends Document {
   gameType: string;
   timeFrame: 'daily' | 'weekly' | 'monthly' | 'allTime';

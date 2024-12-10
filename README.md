@@ -18,7 +18,7 @@ The Evire Gaming Framework is a powerful suite of tools and libraries tailored f
 
 ## Documentation
 
-Refer to the full documentation at [Evire Documentation](https://evire-gaming-framework-docs.com).
+Refer to the full documentation at [Evire Documentation](https://docs.evire.io).
 
 ## Contributing
 

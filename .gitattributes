@@ -1,2 +1,8 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+
+# Git Attributes for Evire Gaming Framework
+
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.yml text eol=lf

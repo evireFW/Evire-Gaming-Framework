@@ -1,1 +1,18 @@
-Ignore file for git. 
+
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+
+# Miscellaneous
+.DS_Store
+*.bak
+*.tmp
